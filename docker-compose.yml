@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  cache:
+    image: redis:latest
+    ports:
+      - 6379:6379
+    volumes:
+      - ./cache:/data
+      - ./tools:/ktools
+    container_name: kristi-test-msg-redis

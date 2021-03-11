@@ -1,0 +1,433 @@
+{
+    "id": "cb98fb14-b11f-48b5-bd93-aba253e430d5",
+    "productId": "e06fe382-ee2c-4ced-a21d-1842217d2f27",
+    "name": {
+      "pl-PL": "Weleda Arnika Gelee żel do ciała"
+    },
+    "productType": {
+      "typeId": "product-type",
+      "id": "982c6c30-74ff-48e8-9ed6-d405a799dca9",
+      "version": 614
+    },
+    "productSlug": {
+      "pl-PL": "453f076ff444c9c3b1a8acfda8c10cf86ab6732688f14fe46217e54f29f7d5ed"
+    },
+    "variant": {
+      "id": 1,
+      "sku": "80016302-70",
+      "key": "80016302-70",
+      "prices": [
+        {
+          "value": {
+            "type": "centPrecision",
+            "currencyCode": "PLN",
+            "centAmount": 6407,
+            "fractionDigits": 2
+          },
+          "id": "e6474afe-af24-4755-8c7f-9050403f275e",
+          "country": "PL",
+          "channel": {
+            "typeId": "channel",
+            "id": "35dc98f5-52ee-4dd4-a320-5fd9da887800"
+          },
+          "custom": {
+            "type": {
+              "typeId": "type",
+              "id": "8ee7e47d-fb4f-4215-ba5c-1dafe64da5e4"
+            },
+            "fields": {
+              "rrpPrice": {
+                "type": "centPrecision",
+                "currencyCode": "PLN",
+                "centAmount": 6407,
+                "fractionDigits": 2
+              },
+              "onSale": false,
+              "flashSales": false,
+              "priceType": "no matching",
+              "priceLayer": 1,
+              "priceReason": "rrp",
+              "discountAmount": {
+                "type": "centPrecision",
+                "currencyCode": "PLN",
+                "centAmount": 0,
+                "fractionDigits": 2
+              },
+              "pricePerBaseAmount": {
+                "type": "centPrecision",
+                "currencyCode": "PLN",
+                "centAmount": 9153,
+                "fractionDigits": 2
+              },
+              "discountPercentage": 0
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.flaconi.at/media/catalog/product/w/e/weleda-arnika-gelee-koerpergel-70-g-4001638078238.jpg",
+          "label": "base-shot_at",
+          "dimensions": {
+            "w": 400,
+            "h": 300
+          }
+        },
+        {
+          "url": "https://cdn.flaconi.pl/media/catalog/product/w/e/weleda-arnika-gelee-koerpergel-70-g-4001638078238.jpg",
+          "label": "base-shot_pl",
+          "dimensions": {
+            "w": 400,
+            "h": 300
+          }
+        },
+        {
+          "url": "https://cdn.flaconi.de/media/catalog/product/w/e/weleda-arnika-gelee-koerpergel-70-g-4001638078238.jpg",
+          "label": "base-shot_de",
+          "dimensions": {
+            "w": 400,
+            "h": 300
+          }
+        }
+      ],
+      "attributes": [
+        {
+          "name": "baseAmount",
+          "value": 100
+        },
+        {
+          "name": "brand",
+          "value": "Weleda"
+        },
+        {
+          "name": "brandDetails",
+          "value": {
+            "typeId": "key-value-document",
+            "id": "4c409b0b-cb9c-443c-8bb7-23951fe92512"
+          }
+        },
+        {
+          "name": "flProductType",
+          "value": {
+            "pl-PL": "Żel do ciała"
+          }
+        },
+        {
+          "name": "gender",
+          "value": {
+            "label": {
+              "pl-PL": "Kobiety"
+            },
+            "key": "female"
+          }
+        },
+        {
+          "name": "line",
+          "value": "Arnika"
+        },
+        {
+          "name": "unit",
+          "value": {
+            "label": {
+              "pl-PL": "g"
+            },
+            "key": "g"
+          }
+        },
+        {
+          "name": "eanCode",
+          "value": "4001638078238"
+        },
+        {
+          "name": "saleIsAllowed_de-DE",
+          "value": true
+        },
+        {
+          "name": "isActive_de-DE",
+          "value": true
+        },
+        {
+          "name": "saleIsAllowed_de-AT",
+          "value": true
+        },
+        {
+          "name": "isActive_de-AT",
+          "value": false
+        },
+        {
+          "name": "saleIsAllowed_pl-PL",
+          "value": true
+        },
+        {
+          "name": "isActive_pl-PL",
+          "value": true
+        },
+        {
+          "name": "releaseDate_de-AT",
+          "value": "2016-12-13T00:00:00.000Z"
+        },
+        {
+          "name": "releaseDate_pl-PL",
+          "value": "2016-12-13T00:00:00.000Z"
+        },
+        {
+          "name": "releaseDate_de-DE",
+          "value": "2016-12-13T00:00:00.000Z"
+        },
+        {
+          "name": "size",
+          "value": 70
+        },
+        {
+          "name": "legacyAvailability",
+          "value": {
+            "label": "Basis",
+            "key": "Basis"
+          }
+        },
+        {
+          "name": "productCategory",
+          "value": {
+            "label": {
+              "pl-PL": "Pielęgnacja"
+            },
+            "key": "pflege"
+          }
+        },
+        {
+          "name": "exclusive",
+          "value": false
+        },
+        {
+          "name": "metaRobots",
+          "value": {
+            "label": "INDEX, FOLLOW",
+            "key": "INDEX, FOLLOW"
+          }
+        },
+        {
+          "name": "ingredients",
+          "value": {
+            "pl-PL": "Arnika, Planta tota 2b Urtinktur"
+          }
+        },
+        {
+          "name": "instruction",
+          "value": {
+            "pl-PL": "O ile nie zalecono inaczej, nakładaj 3 do 5 razy dziennie na dotknięte obszary skóry."
+          }
+        },
+        {
+          "name": "certification",
+          "value": [
+            {
+              "label": {
+                "pl-PL": "NATRUE"
+              },
+              "key": "natrue"
+            }
+          ]
+        },
+        {
+          "name": "skinTypes",
+          "value": [
+            {
+              "label": {
+                "pl-PL": "Wszystkie rodzaje cery"
+              },
+              "key": "alle-hauttypen"
+            }
+          ]
+        },
+        {
+          "name": "effects",
+          "value": [
+            {
+              "label": {
+                "pl-PL": "Chłodzący"
+              },
+              "key": "kuehlend"
+            }
+          ]
+        },
+        {
+          "name": "productColor",
+          "value": [
+            {
+              "label": {
+                "pl-PL": "Pomarańczowy"
+              },
+              "key": "orange"
+            },
+            {
+              "label": {
+                "pl-PL": "Biały"
+              },
+              "key": "weiss"
+            }
+          ]
+        },
+        {
+          "name": "baseImage",
+          "value": {
+            "pl-PL": "https://cdn.flaconi.pl/media/catalog/product/w/e/weleda-arnika-gelee-koerpergel-70-g-4001638078238.jpg"
+          }
+        },
+        {
+          "name": "relevance",
+          "value": 7100
+        },
+        {
+          "name": "urlPath",
+          "value": {
+            "pl-PL": "pielegnacja/weleda/arnika/weleda-arnika-gelee-zel-do-ciala.html"
+          }
+        },
+        {
+          "name": "subLine",
+          "value": "Gelee"
+        },
+        {
+          "name": "legacyVisibility",
+          "value": {
+            "label": "Catalog, Search",
+            "key": "4"
+          }
+        },
+        {
+          "name": "validationIssues",
+          "value": []
+        },
+        {
+          "name": "validationCode",
+          "value": []
+        },
+        {
+          "name": "youtubeVideoIds",
+          "value": [
+            {
+              "de-DE": "gb1lHeYfqZA"
+            }
+          ]
+        },
+        {
+          "name": "isOnSaleCountries",
+          "value": []
+        },
+        {
+          "name": "legacyPublish",
+          "value": false
+        },
+        {
+          "name": "metaRobotsText",
+          "value": {
+            "pl-PL": "INDEX, FOLLOW"
+          }
+        }
+      ],
+      "assets": [],
+      "availability": {
+        "channels": {
+          "4067dc4e-c365-49ec-812c-521723562960": {
+            "isOnStock": true,
+            "availableQuantity": 3
+          }
+        }
+      }
+    },
+    "price": {
+      "value": {
+        "type": "centPrecision",
+        "currencyCode": "PLN",
+        "centAmount": 6407,
+        "fractionDigits": 2
+      },
+      "id": "32c86006-6898-4ff3-95f3-607952866bdf",
+      "country": "PL",
+      "channel": {
+        "typeId": "channel",
+        "id": "35dc98f5-52ee-4dd4-a320-5fd9da887800"
+      },
+      "custom": {
+        "type": {
+          "typeId": "type",
+          "id": "8ee7e47d-fb4f-4215-ba5c-1dafe64da5e4"
+        },
+        "fields": {
+          "rrpPrice": {
+            "type": "centPrecision",
+            "currencyCode": "PLN",
+            "centAmount": 6407,
+            "fractionDigits": 2
+          },
+          "onSale": false,
+          "flashSales": false,
+          "priceType": "no matching",
+          "priceLayer": 1,
+          "priceReason": "rrp",
+          "discountAmount": {
+            "type": "centPrecision",
+            "currencyCode": "PLN",
+            "centAmount": 0,
+            "fractionDigits": 2
+          },
+          "pricePerBaseAmount": {
+            "type": "centPrecision",
+            "currencyCode": "PLN",
+            "centAmount": 9153,
+            "fractionDigits": 2
+          },
+          "discountPercentage": 0
+        }
+      }
+    },
+    "quantity": 1,
+    "discountedPricePerQuantity": [],
+    "supplyChannel": {
+      "typeId": "channel",
+      "id": "4067dc4e-c365-49ec-812c-521723562960"
+    },
+    "distributionChannel": {
+      "typeId": "channel",
+      "id": "35dc98f5-52ee-4dd4-a320-5fd9da887800"
+    },
+    "taxRate": {
+      "name": "23% MwSt",
+      "amount": 0.23,
+      "includedInPrice": true,
+      "country": "PL",
+      "id": "BwEpT-zn",
+      "subRates": []
+    },
+    "state": [
+      {
+        "quantity": 1,
+        "state": {
+          "typeId": "state",
+          "id": "437d7717-7b96-4375-9cc3-8437c0018676"
+        }
+      }
+    ],
+    "priceMode": "Platform",
+    "totalPrice": {
+      "type": "centPrecision",
+      "currencyCode": "PLN",
+      "centAmount": 6407,
+      "fractionDigits": 2
+    },
+    "taxedPrice": {
+      "totalNet": {
+        "type": "centPrecision",
+        "currencyCode": "PLN",
+        "centAmount": 5209,
+        "fractionDigits": 2
+      },
+      "totalGross": {
+        "type": "centPrecision",
+        "currencyCode": "PLN",
+        "centAmount": 6407,
+        "fractionDigits": 2
+      }
+    },
+    "lineItemMode": "Standard"
+  }
